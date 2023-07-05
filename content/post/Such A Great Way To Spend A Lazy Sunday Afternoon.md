@@ -3,6 +3,7 @@ title: Such A Great Way To Spend A Lazy Sunday Afternoon
 created: '2023-07-05T14:07:30.898Z'
 modified: '2023-07-05T14:14:59.654Z'
 slug: hello-world123
+image: couch.jpg
 categories:
     - 💕 Category
 tags:
