@@ -9,7 +9,7 @@ tags:
     - 티스토리 꺼져
 ---
 
-!(couch.jpg)
+!(/couch.jpg)
 
 > What on earth could be more luxurious than a sofa, a book, and a cup of coffee? Was ever anything so civil?
 >
