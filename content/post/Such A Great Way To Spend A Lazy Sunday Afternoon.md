@@ -8,9 +8,8 @@ categories:
 tags:
     - 티스토리 꺼져
 ---
+![image](./down1.jpg)
 
-# Such A Great Way To Spend A Lazy Sunday Afternoon
-![image](down1.jpg)
 > What on earth could be more luxurious than a sofa, a book, and a cup of coffee? Was ever anything so civil?
 >
 > by Anthony trollope
