@@ -9,7 +9,7 @@ tags:
     - 티스토리 꺼져
 ---
 
-!(https://github.com/neoteny1010/stack-1/blob/eec7629021d6224e039ca22e13547d5dcebf7370/content/post/0705/couch.jpg)
+!(https://raw.githubusercontent.com/neoteny1010/stack-1/master/content/post/0705/couch.jpg)
 
 > What on earth could be more luxurious than a sofa, a book, and a cup of coffee? Was ever anything so civil?
 >
